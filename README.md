@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khushal Arora
+#  Hi, I'm Khushal Arora
 
 ### CSE Student | Full-Stack Developer | Java & Web Development
 
